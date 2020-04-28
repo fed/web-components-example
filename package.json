@@ -2,5 +2,11 @@
   "name": "web-components-example",
   "version": "0.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "serve"
+  },
+  "devDependencies": {
+    "serve": "^11.0.2"
+  }
 }
